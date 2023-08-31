@@ -6,3 +6,9 @@
   font-size: 100px;
   text-align: center;
   box-shadow: 10px 10px 25px grey;
+}
+.playerOrder {
+  padding: 30px;
+  text-align: center;
+  font-size: 50px;
+}
