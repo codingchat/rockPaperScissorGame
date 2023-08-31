@@ -1,4 +1,4 @@
-const userInput = prompt("Enter your move"); // takes user input
+ // const userInput = prompt("Enter your move"); // takes user input
 const playerChoice = userInput.toLowerCase(); // makes input case-insensitive
 
 
@@ -60,4 +60,4 @@ function game() {
 
 }
 
-//console.log(game());
+// console.log(game());s
